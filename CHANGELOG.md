@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.26](https://github.com/k8sgpt-ai/k8sgpt-operator/compare/v0.0.25...v0.0.26) (2023-12-01)
+
+
+### Bug Fixes
+
+* **deps:** update k8s.io/utils digest to b307cd5 ([#273](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/273)) ([9f89969](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/9f8996931c6bea13b9a7c1b6e4ddc0d87791ebd4))
+
 ## [0.0.25](https://github.com/k8sgpt-ai/k8sgpt-operator/compare/v0.0.24...v0.0.25) (2023-12-01)
 
 
